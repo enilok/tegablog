@@ -1,11 +1,11 @@
 body{
-background-color: antiquewhite;
+background-color: ghostwhite;
 }
 
 h1{
     font-size: 100px;
     text-align: center;
-    color: black;
+    color: darkblue;
 }
 #name{
     font-size: 100px;
